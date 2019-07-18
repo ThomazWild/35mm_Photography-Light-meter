@@ -18,6 +18,8 @@ Features on future implementation:
  - [ ] EV - Bracketing
  - [ ] Star trails calculation.
  - [ ] Blur detector for moving objects.
-
+ 
+![Olympus film camera using 135mm Film rolls]
+(https://i.ytimg.com/vi/hFQ1e8z2NPA/maxresdefault.jpg)
 No further information. Waiting to be updated.
 
